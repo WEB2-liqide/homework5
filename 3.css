@@ -1,0 +1,6 @@
+﻿h2{text-shadow:#ccc 5px 5px 5px;text-align:center;}
+h3{text-align:center;color:#666;}
+body p{text-indent:2em;}
+body p:nth-of-type(1){text-align:center;}
+.c1{color:red}
+div{text-align:center;}
